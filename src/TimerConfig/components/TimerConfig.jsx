@@ -33,6 +33,7 @@ class TimerConfig extends Component{
                  <input id="hours" 
                  className="form-control" 
                  type="number" 
+                 min= "0"
                  defaultValue={this.props.baseTime.get("hours")} 
                  onChange={this.handleChange}/>
              </div>         
@@ -45,6 +46,7 @@ class TimerConfig extends Component{
                  <input id="minutes" 
                  className="form-control" 
                  type="number" 
+                 min= "0"
                  defaultValue={this.props.baseTime.get("minutes")} 
                  onChange={this.handleChange}/>
              </div>         
@@ -57,6 +59,7 @@ class TimerConfig extends Component{
                  <input id="seconds" 
                  className="form-control" 
                  type="number" 
+                 min= "0"
                  defaultValue={this.props.baseTime.get("seconds")} 
                  onChange={this.handleChange}/>
              </div>         
