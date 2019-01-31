@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "f4769f9bdb7466be65088239c12046d1",
-    "url": "/pomodoro/static/media/glyphicons-halflings-regular.f4769f9b.eot"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/pomodoro/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "77bff3409d81aaf5eaa2",
+    "revision": "f7673ff55a2fda22677f",
     "url": "/pomodoro/static/css/main.a5466e48.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/js/runtime~main.a702e67f.js"
   },
   {
-    "revision": "77bff3409d81aaf5eaa2",
-    "url": "/pomodoro/static/js/main.77bff340.chunk.js"
-  },
-  {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/pomodoro/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "f7673ff55a2fda22677f",
+    "url": "/pomodoro/static/js/main.f7673ff5.chunk.js"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/pomodoro/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "f4769f9bdb7466be65088239c12046d1",
+    "url": "/pomodoro/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/css/1.af14ecae.chunk.css"
   },
   {
-    "revision": "7e7c05fe96c2150762d3a2d3718263aa",
+    "revision": "e613755d7ad686cffc1280c392925f40",
     "url": "/pomodoro/index.html"
   }
 ];

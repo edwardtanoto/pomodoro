@@ -1,16 +1,16 @@
 {
   "main.css": "/pomodoro/static/css/main.a5466e48.chunk.css",
-  "main.js": "/pomodoro/static/js/main.77bff340.chunk.js",
-  "main.js.map": "/pomodoro/static/js/main.77bff340.chunk.js.map",
+  "main.js": "/pomodoro/static/js/main.f7673ff5.chunk.js",
+  "main.js.map": "/pomodoro/static/js/main.f7673ff5.chunk.js.map",
   "static/css/1.af14ecae.chunk.css": "/pomodoro/static/css/1.af14ecae.chunk.css",
   "static/js/1.02b13cd1.chunk.js": "/pomodoro/static/js/1.02b13cd1.chunk.js",
   "static/js/1.02b13cd1.chunk.js.map": "/pomodoro/static/js/1.02b13cd1.chunk.js.map",
   "runtime~main.js": "/pomodoro/static/js/runtime~main.a702e67f.js",
   "runtime~main.js.map": "/pomodoro/static/js/runtime~main.a702e67f.js.map",
-  "static/media/bootstrap.css": "/pomodoro/static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static/css/1.af14ecae.chunk.css.map": "/pomodoro/static/css/1.af14ecae.chunk.css.map",
+  "static/media/bootstrap.css": "/pomodoro/static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/css/main.a5466e48.chunk.css.map": "/pomodoro/static/css/main.a5466e48.chunk.css.map",
+  "static/css/1.af14ecae.chunk.css.map": "/pomodoro/static/css/1.af14ecae.chunk.css.map",
   "index.html": "/pomodoro/index.html",
-  "precache-manifest.392c27159496a13adf07ea296e79c84e.js": "/pomodoro/precache-manifest.392c27159496a13adf07ea296e79c84e.js",
+  "precache-manifest.bef5366fd1aa48e1dcf3ac307d35ef92.js": "/pomodoro/precache-manifest.bef5366fd1aa48e1dcf3ac307d35ef92.js",
   "service-worker.js": "/pomodoro/service-worker.js"
 }
