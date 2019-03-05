@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "f7673ff55a2fda22677f",
-    "url": "/pomodoro/static/css/main.a5466e48.chunk.css"
+    "revision": "68f77f03de2f2877080c",
+    "url": "/pomodoro/static/css/main.06ed3143.chunk.css"
   },
   {
     "revision": "89889688147bd7575d6327160d64e760",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/js/runtime~main.a702e67f.js"
   },
   {
-    "revision": "f7673ff55a2fda22677f",
-    "url": "/pomodoro/static/js/main.f7673ff5.chunk.js"
+    "revision": "68f77f03de2f2877080c",
+    "url": "/pomodoro/static/js/main.68f77f03.chunk.js"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/pomodoro/static/css/1.af14ecae.chunk.css"
   },
   {
-    "revision": "e613755d7ad686cffc1280c392925f40",
+    "revision": "b14d7eb0e269a97c591f09ec91e91ac0",
     "url": "/pomodoro/index.html"
   }
 ];
