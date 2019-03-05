@@ -9,6 +9,7 @@ class App extends Component {
        <div className="card app-content center-block">
         <div className="card-body">
           <Timer />
+          
         </div>
       </div>
 

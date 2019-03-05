@@ -4,6 +4,7 @@ import TimerHeader from '../../TimerHeader/components/TimerHeader'
 import TimerDisplay from '../../TimerDisplay/components/TimerDisplay';
 import TimerButton from '../../TimerButton/components/TimerButton';
 import TimerConfig from '../../TimerConfig/components/TimerConfig';
+import Game from '../../Game/component/Game';
 import * as timerState from '../../timerState';
 
 
@@ -99,6 +100,8 @@ class Timer extends React.Component{
         setBaseTime={this.setBaseTime}
         />
         }
+        <br/>
+        <Game />
       </div>
         );
     }
