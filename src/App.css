@@ -1,5 +1,5 @@
 .app-content{
-    width: 600px;
+    width: 100%;
     margin-top: 50px;
     padding:40px;
     background-color: #B9FFFD  ;
@@ -36,15 +36,21 @@
         text-align: center;
     }
   .form-control{
-      width: 70px;
+      width: 100px;
    
       padding-left: 25px;
   }
   
   .form-group{
-      padding-left: 110px;
+      padding-left : 46%;
   }
   
   .game{
       padding-left: 120px;
+  }
+
+  .spotify{
+      margin-right:80px;
+      margin-left:80px;
+      display:block
   }

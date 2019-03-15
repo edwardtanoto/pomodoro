@@ -19,17 +19,17 @@ class TimerConfig extends Component{
 
     render(){
         return(
-            <div>
+            <div className="center-block">
             <div className="row">
             <h2 className="text-primary">Set Timer</h2>
         </div>
         <div className="row">
         
-         <div className="form-group">
-             <div className="col-sm-3">
+         <div className="form-group center-block">
+             <div>
                  <label htmlFor="hours">Hours</label>
              </div>
-             <div className="col-sm-9">
+             <div>
                  <input id="hours" 
                  className="form-control" 
                  type="number" 
@@ -38,24 +38,25 @@ class TimerConfig extends Component{
                  onChange={this.handleChange}/>
              </div>         
         </div>
-             <div className="form-group">
-             <div className="col-sm-3">
+             <div className="form-group center-block">
+             <div>
                  <label htmlFor="minutes">Minutes</label>
              </div>
-             <div className="col-sm-9">
+             <div>
                  <input id="minutes" 
                  className="form-control" 
                  type="number" 
                  min= "0"
+                 max="59"
                  defaultValue={this.props.baseTime.get("minutes")} 
                  onChange={this.handleChange}/>
              </div>         
         </div>
-             <div className="form-group">
-             <div className="col-sm-3">
+             <div className="form-group center-block">
+             <div>
                  <label htmlFor="seconds">Seconds</label>
              </div>
-             <div className="col-sm-9">
+             <div>
                  <input id="seconds" 
                  className="form-control" 
                  type="number" 
